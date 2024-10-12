@@ -1,14 +1,14 @@
 # CAPTAIN Toolbox for System Identification, Time Series Analysis, Forecasting and Control
 
-Toolbox version: 9.0 (01-Nov-2024): captain9_0.mltbx
+CAPTAIN version: 9.0 (01-Nov-2024): captain9_0.mltbx
 
-Visit our web site for more information, including to download Guides that fully define the mathematical models with worked examples:
+MATLAB functions for non-stationary time series analysis, forecasting and control. Visit our web site for more information, including to download Guides that fully define the mathematical models with worked examples:
 
 http://wp.lancs.ac.uk/captaintoolbox/
 
 Features
 --------
-The CAPTAIN Toolbox is a collection of MATLAB functions for non-stationary time series analysis, forecasting and control. The toolbox is useful for system identification, signal extraction, interpolation, backcasting, forecasting, data-based mechanistic modelling and control of a wide range of linear and non-linear stochastic systems. It consists of three modules: TVPMOD for time variable parameter stochastic models, RIVSID for Transfer Function identification, and TDCONT for multivariable control system design.
+The toolbox is useful for system identification, signal extraction, interpolation, backcasting, forecasting, data-based mechanistic modelling and control of a wide range of linear and non-linear stochastic systems. It consists of three modules: TVPMOD for time variable parameter stochastic models, RIVSID for Transfer Function identification, and TDCONT for multivariable control system design.
 
 Authorship
 ----------
@@ -16,4 +16,4 @@ Current developers: Peter C. Young and Wlodek Tych (Lancaster Environment Centre
 
 Please cite
 -----------
-Taylor, C.J., Pedregal, D.J., Young, P.C. and Tych, W. (2007) Environmental Time Series Analysis and Forecasting with the Captain Toolbox, Environmental Modelling and Software, 22, 797-814.
+Taylor, C.J., Pedregal, D.J., Young, P.C. and Tych, W. (2007) Environmental Time Series Analysis and Forecasting with the Captain Toolbox, Environmental Modelling and Software, 22, 797-814. https://doi.org/10.1016/j.envsoft.2006.03.002
