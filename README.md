@@ -2,8 +2,6 @@
 
 Toolbox version: 9.0 (01-Nov-2024): captain9_0.mltbx
 
-To install, download the packaged toolbox file to your device. Open the saved .mltbx file from within MATLAB (i.e. Home>Open).
-
 Visit our web site for more information, including to download Guides that fully define the mathematical models with worked examples:
 
 http://wp.lancs.ac.uk/captaintoolbox/
