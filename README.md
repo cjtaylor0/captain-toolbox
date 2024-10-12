@@ -15,3 +15,7 @@ The CAPTAIN Toolbox is a collection of MATLAB functions for non-stationary time 
 Authorship
 ----------
 Current developers: Peter C. Young and Wlodek Tych (Lancaster Environment Centre, LEC) and C. James Taylor (School of Engineering), Lancaster University, Lancaster, UK. Co-author: Diego J. Pedregal, Escuela Tenica Superior de Ingenieros Industriales Edificio Politenica, Ciudad Real, Spain. Additional contributors: Paul McKenna and Renata Romanowicz.
+
+Please cite
+-----------
+Taylor, C.J., Pedregal, D.J., Young, P.C. and Tych, W. (2007) Environmental Time Series Analysis and Forecasting with the Captain Toolbox, Environmental Modelling and Software, 22, 797-814.
