@@ -1,7 +1,5 @@
 # CAPTAIN Toolbox for System Identification, Time Series Analysis, Forecasting and Control
 
-CAPTAIN version: 9.0 (01-Nov-2024): captain9_0.mltbx
-
 MATLAB functions for non-stationary time series analysis, forecasting and control. Visit our web site for more information, including to download Guides that fully define the mathematical models with worked examples:
 
 http://wp.lancs.ac.uk/captaintoolbox/
