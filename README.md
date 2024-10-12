@@ -1,6 +1,8 @@
 # CAPTAIN Toolbox for System Identification, Time Series Analysis, Forecasting and Control
 
-MATLAB functions for non-stationary time series analysis, forecasting and control. Visit our web site for more information, including to download Guides that fully define the mathematical models with worked examples:
+MATLAB Toolbox for non-stationary time series analysis, forecasting and control.
+
+Visit our web site for more information, including to download Guides that fully define the mathematical models with worked examples:
 
 http://wp.lancs.ac.uk/captaintoolbox/
 
@@ -10,7 +12,7 @@ The toolbox is useful for system identification, signal extraction, interpolatio
 
 Installation
 ------------
-If you download the attached file, such as captain.mltbx, then open this from within MATLAB (i.e. Home>Open) to install. Alternatively, use the MATLAB Add-Ons interface to find and install the toolbox.
+The attached installation file, captain.mltbx, includes m-files, p-code, data, documentation and Simulink models. Open from within MATLAB (i.e. Home>Open) to install. Alternatively, use the MATLAB Add-Ons interface to find and install the toolbox.
 
 Authorship
 ----------
