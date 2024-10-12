@@ -1,6 +1,6 @@
-# CAPTAIN Toolbox for System Identification, Time Series Analysis, Forecasting and Control
+# CAPTAIN Toolbox
 
-MATLAB Toolbox for non-stationary time series analysis, forecasting and control.
+MATLAB Toolbox for System Identification, Time Series Analysis, Forecasting and Control.
 
 Visit our web site for more information, including to download Guides that fully define the mathematical models with worked examples:
 
@@ -8,11 +8,11 @@ http://wp.lancs.ac.uk/captaintoolbox/
 
 Features
 --------
-The toolbox is useful for system identification, signal extraction, interpolation, backcasting, forecasting, data-based mechanistic modelling and control of a wide range of linear and non-linear stochastic systems. It consists of three modules: TVPMOD for time variable parameter stochastic models, RIVSID for Transfer Function identification, and TDCONT for multivariable control system design.
+The CAPTAIN Toolbox is useful for system identification, signal extraction, interpolation, backcasting, forecasting, data-based mechanistic modelling and control of a wide range of linear and non-linear stochastic systems. It consists of three modules: TVPMOD for time variable parameter stochastic models, RIVSID for Transfer Function identification, and TDCONT for multivariable control system design.
 
 Installation
 ------------
-The attached installation file, captain.mltbx, includes m-files, p-code, data, documentation and Simulink models. Open from within MATLAB (i.e. Home>Open) to install. Alternatively, use the MATLAB Add-Ons interface to find and install the toolbox.
+The attached installation .mltbx file, includes m-files, p-code, data, documentation and Simulink models. Open from within MATLAB (i.e. Home>Open) to install. Alternatively, use the MATLAB Add-Ons interface to install the toolbox.
 
 Authorship
 ----------
