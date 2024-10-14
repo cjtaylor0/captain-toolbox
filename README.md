@@ -6,6 +6,8 @@ Visit our web site for more information, including to download Guides that fully
 
 http://wp.lancs.ac.uk/captaintoolbox/
 
+Lancaster University, UK
+
 Features
 --------
 The CAPTAIN Toolbox is useful for system identification, signal extraction, interpolation, backcasting, forecasting, data-based mechanistic modelling and control of a wide range of linear and non-linear stochastic systems. It consists of three modules: TVPMOD for time variable parameter stochastic models, RIVSID for Transfer Function identification, and TDCONT for multivariable control system design.
