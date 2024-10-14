@@ -1,8 +1,6 @@
 # CAPTAIN Toolbox
 
-MATLAB Toolbox for System Identification, Time Series Analysis, Forecasting and Control.
-
-Visit our web site for more information, including to download Guides that fully define the mathematical models with worked examples:
+MATLAB Toolbox for System Identification, Time Series Analysis, Forecasting and Control. Visit our web site for more information, including to download Guides that fully define the mathematical models with worked examples:
 
 http://wp.lancs.ac.uk/captaintoolbox/
 
