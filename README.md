@@ -18,6 +18,6 @@ Authorship
 ----------
 Current developers: Peter C. Young and Wlodek Tych (Lancaster Environment Centre, LEC) and C. James Taylor (School of Engineering), Lancaster University, Lancaster, UK. Co-author: Diego J. Pedregal, Escuela Tenica Superior de Ingenieros Industriales Edificio Politenica, Ciudad Real, Spain. Additional contributors: Paul McKenna and Renata Romanowicz.
 
-Reference
----------
+Please Cite
+-----------
 Taylor, C.J., Pedregal, D.J., Young, P.C. and Tych, W. (2007) Environmental Time Series Analysis and Forecasting with the Captain Toolbox, Environmental Modelling and Software, 22, 797-814. https://doi.org/10.1016/j.envsoft.2006.03.002
