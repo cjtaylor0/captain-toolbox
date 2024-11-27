@@ -4,7 +4,7 @@
 
 MATLAB toolbox for system identification, time series analysis, forecasting and control.
 
-CAPTAIN was originated by Professor Peter C. Young five decades ago. The MATLAB version has been in continuous use by researchers in academia and industry for over 25 years and continues to be developed. Previously obtained via the authors' web page, the latest versions of CAPTAIN has been available from MATLAB File Exchange since October 2024. The authors hope that the latest algorithms in the toolbox will allow interested researchers to add to the ever-expanding list of successful applications, which already includes the analysis of numerous engineering, environmental, biological, medical and socio-economic processes. Visit our web site to download Guides that fully define the mathematical models with worked examples (http://wp.lancs.ac.uk/captaintoolbox).
+CAPTAIN was originated by Professor Peter C. Young five decades ago. The MATLAB version has been in continuous use by researchers in academia and industry for over 25 years. Since October 2024, CAPTAIN has been available via MATLAB File Exchange and continues to be developed. The authors hope that the latest algorithms in the toolbox will allow interested researchers to add to the ever-expanding list of successful applications, which already includes the analysis of numerous engineering, environmental, biological, medical and socio-economic processes. Visit our web site to download Guides that fully define the mathematical models with worked examples (http://wp.lancs.ac.uk/captaintoolbox).
 
 Features
 --------
