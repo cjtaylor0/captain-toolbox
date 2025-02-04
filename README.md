@@ -12,7 +12,7 @@ The CAPTAIN Toolbox is useful for system identification, signal extraction, inte
 
 Installation
 ------------
-CAPTAIN has been distributed via MATLAB File Exchange since October 2024. The toolbox download file includes m-files, p-code, data, documentation and Simulink models. To install, one option is to open the saved .mltbx file from within MATLAB (i.e. Home>Open). Alternatively, use the MATLAB Add-Ons interface to install directly from File Exchange.
+The toolbox download file includes m-files, p-code, data, documentation and Simulink models. To install, one option is to open the saved .mltbx file from within MATLAB (i.e. Home>Open). Alternatively, use the MATLAB Add-Ons interface to install directly from File Exchange.
 
 Authorship
 ----------
