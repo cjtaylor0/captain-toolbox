@@ -16,7 +16,7 @@ The toolbox download file includes m-files, p-code, data, documentation and Simu
 
 Authorship
 ----------
-Current developers: Peter C. Young and Wlodek Tych (Lancaster Environment Centre, LEC) and C. James Taylor (School of Engineering), Lancaster University, Lancaster, UK. Co-author: Diego J. Pedregal, Escuela Tenica Superior de Ingenieros Industriales Edificio Politenica, Ciudad Real, Spain. Additional contributors: Paul McKenna and Renata Romanowicz.
+Diego J. Pedregal (UCLM, Ciudad Real, Spain), C. James Taylor (School of Engineering, Lancaster University, UK), Wlodek Tych (LEC, Lancaster University, UK) and Peter C. Young (LEC, Lancaster University, UK). Additional contributors: Paul McKenna and Renata Romanowicz.
 
 Reference
 ---------
