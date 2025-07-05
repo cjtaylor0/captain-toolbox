@@ -8,7 +8,7 @@ CAPTAIN was originated by Professor Peter C. Young over 50 years ago. The MATLAB
 
 Features
 --------
-The CAPTAIN Toolbox is useful for system identification, signal extraction, interpolation, backcasting, forecasting, data-based mechanistic modelling and control of a wide range of linear and non-linear stochastic systems. It consists of three modules: TVPMOD for time variable parameter stochastic models, RIVSID for Transfer Function identification, and TDCONT for multivariable control system design.
+The CAPTAIN Toolbox is useful for system identification, signal extraction, interpolation, backcasting, forecasting, data-based mechanistic modelling and control of a wide range of linear and non-linear stochastic systems. It consists of three modules: TVPMOD for time variable parameter stochastic models, RIVSID for discrete- and continuous-time Transfer Function identification, and TDCONT for multivariable control system design.
 
 Installation
 ------------
